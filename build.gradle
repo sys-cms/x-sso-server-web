@@ -15,7 +15,7 @@ configurations.all {
 }
 
 repositories {
-    maven { url "http://172.16.8.35:8081/nexus/content/groups/public/" }
+    maven { url "http://10.211.55.2:8081/nexus/content/groups/public/" }
 }
 sourceSets {
 	main {
